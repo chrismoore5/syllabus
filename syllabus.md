@@ -29,6 +29,7 @@
 * <span style = 'color:green;'>√</span> Push Changes
 * <span style = 'color:green;'>√</span> Add new Remote repo
 * <span style = 'color:green;'>√</span> Fetch Remote changes
+* * <span style = 'color:green;'>√</span> Sync with Madeline
 * <span style = 'color:red;'>»</span> Add SSH Key
 * <span style = 'color:red;'>»</span> Merge Branches
 ###Resources
