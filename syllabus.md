@@ -1,4 +1,17 @@
 # Subject 2 - Git workflow
+***hello world***
+
+* blue
+* orange
+* green
+* red
+* yellow
+
+1. Jered
+2. Nicole
+3. Michelle
+4. Monique
+5. Kirt
 
 ###Why is this Important
 >I will be using Git and Github to share information and projects with everyone, and when you begin to work on projects together you will be using Github to coordinate.
@@ -8,14 +21,14 @@
 * <span style = 'color:green;'>√</span> Create a Github account
 * <span style = 'color:green;'>√</span> Set up Git locally and online
 * <span style = 'color:green;'>√</span> Create a Fork
-* <span style = 'color:green;'>√</span> Create a Branch
+* <span style = 'color:blue;'>?</span> Create a Branch
 * <span style = 'color:green;'>√</span> Clone a Repo
 * <span style = 'color:green;'>√</span> Pull Changes for Branch
-* <span style = 'color:green;'>√</span> Add Changes
-* <span style = 'color:green;'>√</span> Commit Changes
-* <span style = 'color:green;'>√</span> Push Changes
-* <span style = 'color:green;'>√</span> Add new Remote repo
-* <span style = 'color:green;'>√</span> Fetch Remote changes
+* <span style = 'color:blue;'>?</span> Add Changes
+* <span style = 'color:blue;'>?</span> Commit Changes
+* <span style = 'color:blue;'>?</span> Push Changes
+* <span style = 'color:blue;'>?</span> Add new Remote repo
+* <span style = 'color:blue;'>?</span> Fetch Remote changes
 * <span style = 'color:red;'>»</span> Add SSH Key
 * <span style = 'color:red;'>»</span> Merge Branches
 ###Resources
