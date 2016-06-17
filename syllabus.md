@@ -21,14 +21,14 @@
 * <span style = 'color:green;'>√</span> Create a Github account
 * <span style = 'color:green;'>√</span> Set up Git locally and online
 * <span style = 'color:green;'>√</span> Create a Fork
-* <span style = 'color:blue;'>?</span> Create a Branch
+* <span style = 'color:green;'>√</span> Create a Branch
 * <span style = 'color:green;'>√</span> Clone a Repo
 * <span style = 'color:green;'>√</span> Pull Changes for Branch
-* <span style = 'color:blue;'>?</span> Add Changes
-* <span style = 'color:blue;'>?</span> Commit Changes
-* <span style = 'color:blue;'>?</span> Push Changes
-* <span style = 'color:blue;'>?</span> Add new Remote repo
-* <span style = 'color:blue;'>?</span> Fetch Remote changes
+* <span style = 'color:green;'>√</span> Add Changes
+* <span style = 'color:green;'>√</span> Commit Changes
+* <span style = 'color:green;'>√</span> Push Changes
+* <span style = 'color:green;'>√</span> Add new Remote repo
+* <span style = 'color:green;'>√</span> Fetch Remote changes
 * <span style = 'color:red;'>»</span> Add SSH Key
 * <span style = 'color:red;'>»</span> Merge Branches
 ###Resources
